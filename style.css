@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+.app{
+    width:800px;
+    margin:0 auto;
+    margin-top:20px;
+}
+
+.app .box{
+    width:100%;
+    border:1px solid rgb(47, 199, 226);
+    padding:15px 10px;
+    margin-bottom:25px;
+}
+
+.app .box input{
+    background:#04ff04;
+    padding:20px;
+    border:none;
+    border-radius: 50%;
+    color: #fff;
+}
+
+.app .box span{
+    margin-left:10px;
+    color:rgb(235, 118, 118);
+}
